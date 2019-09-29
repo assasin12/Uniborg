@@ -1,13 +1,4 @@
 {
-  "name": "BorgBot // Extended Uniborg",
-  "description": "Modular UserBot powered by @UniBorg",
-  "logo": "https://i.ibb.co/Qr45N86/photo-2019-09-05-20-33-04.jpg",
-  "keywords": [
-    "telegram",
-    "userbot",
-    "plugin",
-    "modular",
-    "productivity"
   ],
   "website": "https://telegram.dog/UniBorg",
   "success_url": "https://t.me/UniBorg/5",
