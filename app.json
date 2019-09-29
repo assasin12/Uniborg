@@ -9,7 +9,6 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ArnabXD/BorgBot",
   "website": "https://telegram.dog/UniBorg",
   "success_url": "https://t.me/UniBorg/5",
   "env": {
